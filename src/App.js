@@ -1,5 +1,4 @@
-// import logo from './logo.svg';
-import logo from '../src/res/img/stone.jpg'
+import logo from '../src/res/img/logo.png'
 
 import './App.css';
 
