@@ -13,7 +13,7 @@
 }
 
 .App-header {
-  /* background-color: #282c34; */
+  background-color: #282c34;
   background-image: url(./res/img/sky.jpg);
   background-position: center;
   background-size: cover;
