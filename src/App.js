@@ -1,4 +1,5 @@
 import logo from '../src/res/img/logo.png'
+import sky from '../src/res/img/sky.jpg'
 
 import './App.css';
 
